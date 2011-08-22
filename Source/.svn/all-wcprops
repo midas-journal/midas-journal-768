@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source
+END
+InvertDeformationField.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/InvertDeformationField.cxx
+END
+itkFixedPointInverseDeformationFieldImageFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/itkFixedPointInverseDeformationFieldImageFilter.txx
+END
+IJMacros.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/IJMacros.txt
+END
+itkFixedPointInverseDeformationFieldImageFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/itkFixedPointInverseDeformationFieldImageFilter.h
+END
+CMakeTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/CMakeTemplate.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/README.txt
+END
+df.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/df.vtk
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/gravis/!svn/ver/19671/people/luethi/documents/InsightJournal/FixedPointInverse/Source/CMakeLists.txt
+END
